@@ -1,0 +1,12 @@
+$mainColor: #BF4080;
+
+h1, h2, .btn {
+  color: $mainColor;
+}
+
+.btn {
+  text-decoration: none;
+  border: 1px solid $mainColor;
+  border-radius: 5px;
+  padding: 5px;
+}

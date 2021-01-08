@@ -1,0 +1,10 @@
+h1, h2, .btn {
+  color: #BF4080;
+}
+
+.btn {
+  text-decoration: none;
+  border: 1px solid #BF4080;
+  border-radius: 5px;
+  padding: 5px;
+}
